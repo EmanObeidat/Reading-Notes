@@ -43,4 +43,6 @@ The first node in tree called "Root" which should has two nodes , left node must
 ```
 ## Discussion Questions: ##
      Answer 1:We must consider the operations we will do and the frequency of their execution while choosing the optimum data structure to address a certain challenge.
-    Answer 2: By using functions like if statement to determine when to function should stop calling it self
+     Answer 2: By using functions like if statement to determine when to function should stop calling it self
+```
+    Things I want to know more about:
