@@ -36,7 +36,7 @@
  4-Stack: it looks like an array but with a few additional features. we can add to the top of it by using push() and we can remove from the top of it by using pob().
 
 5-Queue: it looks like an array but with a few additional features. we can add to the end of it by using .enqueue() and we can remove from the it of it by using .dequeue().
-6.Graphs : Similar to linked list where you have nodes that pointing to each other and the pointer in it called edge.
+7.Graphs : Similar to linked list where you have nodes that pointing to each other and the pointer in it called edge.
 
 6-Trees: Special kind of hierarchical graph in which data expands out in one direction . we can use it to represent a lot of things.
 The first node in tree called "Root" which should has two nodes , left node must be lower than root and right node must be higher than root. 
