@@ -1,11 +1,3 @@
-# Reading-Notes
-```This web site will include a summary information about different fields.```
-
-+ ## Code 102 - Intro to Software Development
-+ ## Code 201 - Foundations of Software Development
-+ ## Code 301 - Intermediate Software Development
-+ ## Code 401 - Advanced Software Development
-
 ## 1. Data Structures and Algorithms
 ```
 (1) Recursion: it is a function that calls it self,it makes solution clearer and easier to understand. it summarize the code in a few lines and it breaks down the problem into two cases , base case and recursive case.
@@ -45,24 +37,6 @@ The first node in tree called "Root" which should has two nodes , left node must
      Answer 1:We must consider the operations we will do and the frequency of their execution while choosing the optimum data structure to address a certain challenge.
      Answer 2: By using functions like if statement to determine when to function should stop calling it self
 
-
-  ## 2.Engineering Readings  
-  
-   **what steps to take to be a better problem-solver?**
-   ```
-   1. Understand what is the problem exactly
-   2. Plan: put a good plan to solve the problem
-   3. Divide the problem into subproblems, this will make the problem easier to solve 
-   ```
-   if you facing a stuck, you have to keep calm and don't worry, you can go step by step through your solution trying to find where you went wrong, also you can take a look for the code and think about another approach. if any of the previous solution dosn't work, delete all code and retype it.
-   "you have to practise as mush possible as "
-  
-  
-  ```
-    Answers of quastion:
-
-  1. my individual strengths, achievements, and experiences.also, my ability to communicate complex ideas in a simple way.
-
-  2.It can be beneficial to take a break from my work and step away for a while when i feel stuck on a challenging section of code or reasoning. This can assist in clearing my thoughts and enabling me to return to the issue from a different angle. Also,It can be beneficial to divide a big problem into smaller, more manageable portions. Start by determining the main elements of the issue, and then address each element separately. This strategy can lessen your sense of overload and speed up the process of finding a solution.in addition, work with a team help us to be more creative.
 ```
-    Things I want to know more about:
+  Things I want to know more about:
+  ```
