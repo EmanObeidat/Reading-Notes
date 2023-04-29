@@ -1,7 +1,7 @@
 ## What is the command line ? ##
-**Command Line** : is a  text-based system interface known as a command line or terminal is used. Commands can be entered using the keyboard, and feedback is provided to you in a text-like format.
+**Command Line** :  is a  text-based system interface known as a command line or terminal is used. Commands can be entered using the keyboard, and feedback is provided to you in a text-like format.
 
-## Basic Navigation:
+## Basic Navigation: 
 ```
 1.pwd: Print Working Directory.
 2.ls: Current Location.
@@ -20,12 +20,13 @@ There are two type of paths:
 file : Obtain information about what type of file a file or directory is.
 ls -a :List the contents of a directory, including hidden files.
 ```
+## Manual Page: ##
 - man command "command inside <>": Look up the manual page for a particular command.
 - man -k search term "search term inside<>" :Do a keyword search for all manual pages containing the given search term.
 - /term "term inside <>":Within a manual page, perform a search for 'term'
 - n : After performing a search within a manual page, select the next found item.
 
-**File Manipulation** :
+## File Manipulation : ##
 ```
 mkdir: Make Directory - ie. Create a directory.
 rmdir : Remove Directory - ie. Delete a directory.
