@@ -13,8 +13,8 @@
 
  ## Table Of Content: ##
 
- | Syntax      | Description |    |
-| :---        |    :----:   |          ---: |
+ | Syntax      | Description |    
+| :---        |    :----:   |          
 | DataStructure      | [datastructure](./DataStructure.md)       
 | EngineerReading   | [Engineering Reading](./Engineering%20Reading.md)         
 |SQL| [SQL](./SQL.md)
