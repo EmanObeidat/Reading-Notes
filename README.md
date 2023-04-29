@@ -7,10 +7,10 @@
 + ## Code 401 - Advanced Software Development
 
 
- 1-[datastructure](./DataStructure.md)   
- 
- 2-[Engineering Reading](./Engineering%20Reading.md) 
+ - [datastructure](./DataStructure.md)   
 
- 3-[SQL](./SQL.md)
+ - [Engineering Reading](./Engineering%20Reading.md) 
 
- 4.[The command Line](./TheCommandLine.md)
+ - [SQL](./SQL.md)
+
+ - [The command Line](./TheCommandLine.md)
