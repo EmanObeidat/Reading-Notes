@@ -35,3 +35,7 @@ cp : Copy - ie. Copy a file or directory.
 mv : Move - ie. Move a file or directory (can also be used to rename).
 rm : Remove - ie. Delete a file.
 ```
+```
+  Things I want to know more about:
+  I need to practise more
+```

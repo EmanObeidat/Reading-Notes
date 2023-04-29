@@ -17,4 +17,7 @@
 
   2.It can be beneficial to take a break from my work and step away for a while when i feel stuck on a challenging section of code or reasoning. This can assist in clearing my thoughts and enabling me to return to the issue from a different angle. Also,It can be beneficial to divide a big problem into smaller, more manageable portions. Start by determining the main elements of the issue, and then address each element separately. This strategy can lessen your sense of overload and speed up the process of finding a solution.in addition, work with a team help us to be more creative.
 ```
+```
     Things I want to know more about:
+    I wanna improve my skills and reading more about how to be successful problem solver
+```

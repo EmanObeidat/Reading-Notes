@@ -7,10 +7,16 @@
 + ## Code 401 - Advanced Software Development
 
 
- - [datastructure](./DataStructure.md)   
 
- - [Engineering Reading](./Engineering%20Reading.md) 
 
- - [SQL](./SQL.md)
+ 
 
- - [The command Line](./TheCommandLine.md)
+ ## Table Of Content: ##
+
+ | Syntax      | Description |    |
+| :---        |    :----:   |          ---: |
+| DataStructure      | [datastructure](./DataStructure.md)       
+| EngineerReading   | [Engineering Reading](./Engineering%20Reading.md)         
+|SQL| [SQL](./SQL.md)
+|Command Line | [The command Line](./TheCommandLine.md)
+|Growth Mindset | [Growth Mindset](./TheGrowthMindset.md)
