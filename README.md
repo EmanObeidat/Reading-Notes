@@ -16,7 +16,7 @@
  | Syntax      | Description |    
 | :---        |    :----:   |          
 | DataStructure      | [datastructure](./DataStructure.md)       
-| EngineerReading   | [Engineering Reading](./Engineering%20Reading.md)         
+| EngineerReading   | [Engineering Reading](./EngineeringReading.md)         
 |SQL| [SQL](./SQL.md)
 |Command Line | [The command Line](./TheCommandLine.md)
 |Growth Mindset | [Growth Mindset](./TheGrowthMindset.md)
