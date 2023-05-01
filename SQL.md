@@ -1,5 +1,11 @@
 # SQL
 **SQL stands for Structured Query Language**
+
+# SQL & Relational database
+Relational databases store data in tables which can grow large and have a multitude of columns and records. 
+Relational database management systems (RDBMSs) use SQL (and variants of SQL) to manage the data in these large tables.
+
+ SQL: is a standardized programming language that is used to manage relational databases and perform various operations on the data in them.
 ```
 SELECT * FROM TableName; select all things inside table
 ```
