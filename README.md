@@ -1,4 +1,4 @@
-# Reading-Notes
+# Reading-Notes 
 ```This web site will include a summary information about different fields.```
 
 + ## Code 102 - Intro to Software Development
@@ -11,7 +11,7 @@
 
  
 
- ## Table Of Content: ##
+ ## Prep work Table Of Content: ##
 
  | Syntax      | Description |    
 | :---        |    :----:   |          
