@@ -28,5 +28,6 @@
 
 | Topic   | Link|
 | :---        |    :----:   |          
-|Class 01| [Class 01](./Class01.md)|
-|Class 02 |[Class 02](./TestingAndModules.md)
+|Class 01| [Pain vs. Suffering](./Class01.md)|
+|Class 02 |[Testing and Modules](./TestingAndModules.md)
+|Class 03| [File IO & Exceptions](./FileIOExceptions.md)
