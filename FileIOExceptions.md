@@ -23,7 +23,7 @@ readline() method reads a single line of text from a file and returns it as a st
  ```
  ## ‘try’, ‘except’, and ‘finally’
  
- $\colorbox{red}{These are used in Python to handle exceptions and ensure proper execution of code.}$
+ {These are used in Python to handle exceptions and ensure proper execution of code.}
 ```
 'try' :The code that can cause an exception is found in the try block. If an exception is thrown, the try block's execution is terminated and control is transferred to the closest except block that matches the exception.
 
