@@ -1,45 +1,27 @@
 # Linked List
+## What is Linked List?
 
-## what is a linked list?
+A linked list is a data structure that consists of a sequence of elements called nodes, each containing two parts: a data part and a reference part, which points to the next node in the sequence. The reference part of the last node in the sequence points to null, indicating the end of the list.
 
-A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers.
+Unlike arrays, linked lists do not require a fixed amount of memory to store their elements. They can dynamically grow and shrink as elements are added or removed, making them a flexible data structure for certain types of operations.
 
-## analogy
+Linked lists can be singly linked, where each node points only to the next node, or doubly linked, where each node points to both the next and previous nodes in the sequence. Doubly linked lists are often used for operations that require traversal in both directions, such as in implementing a text editor.
 
-A linked list is like a train. Each car is a node. The node contains the data and a pointer to the next node. The last car has a pointer to null.
+## What is Singly?
+Singly - Singly refers to the number of references the node has. A Singly linked list means that there is only one reference, and the reference points to the Next node in a linked list. 
 
-## why linked list?
+## What is Doubly?
+Doubly - Doubly refers to there being two (double) references within the node. A Doubly linked list means that there is a reference to both the Next and Previous
 
-- Dynamic size
-- Ease of insertion/deletion
+## What is node?
+Node - Nodes are the individual items/links that live in a linked list. Each node contains the data for each link.
 
-## types of linked list
+## What is Next?
+Next - Each node contains a property called Next. This property contains the reference to the next node.
 
-- Singly Linked List
-- Doubly Linked List
-- Circular Linked List
+## What is Head?
+Head - The Head is a reference of type Node to the first node in a linked list.
 
-## singly linked list
+## What is Current?
 
-A linked list is a sequence of data structures, which are connected together via links.
-
-Each data structure contains two items: the data and a reference (in other words, a link) to the next data structure in the sequence. The last data structure has a link to a null value.
-
-![singly linked list](https://www.tutorialspoint.com/data_structures_algorithms/images/linked_list.jpg)
-
-## complicity related to array
-
-| Operation | Array | Linked List |
-|-----------|-------|-------------|
-| Access    | O(1)  | O(n)        |
-| Search    | O(n)  | O(n)        |
-| Insertion | O(n)  | O(1)        |
-| Deletion  | O(n)  | O(1)        |
-
-
-
-## Some definitions
-
-- **Head**: The first node in a linked list.
-- **Tail**: The last node in a linked list.
-- **Current**: The node that is currently being looked at.
+Current - The Current is a reference of type Node to the node that is currently being looked at. When traversing, you create a new Current variable at the Head to guarantee you are starting from the beginning of the linked list
