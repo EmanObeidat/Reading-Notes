@@ -34,4 +34,5 @@
 |Class 04| [Topic](./%20Topic.md)|
 |Class 05|[Linked List](./LinkedList.md)|
 |Class 06|[Python Random](./Class06.md)|
-|Class 07|[Ten Thousand](./Ten_Thousand.md)
+|Class 07|[Ten Thousand](./Ten_Thousand.md)|
+|Class 08|[Stack and Queues](./StackandQueues.md)
