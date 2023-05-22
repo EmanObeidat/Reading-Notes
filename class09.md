@@ -15,7 +15,7 @@ The list comprehension syntax allows us to achieve the same result with fewer li
 ```
 # Using a list comprehension
 original_list = [1, 2, 3, 4, 5]
-squared_list = [num ** 2 for num in original_list]
+squared_list = [num ** 2 for num in original_list] 
 
 print(squared_list)
 OUTPUT: [1, 4, 9, 16, 25]
