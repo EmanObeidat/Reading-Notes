@@ -39,3 +39,4 @@
 |Class 09|[decorator](./class09.md)|
 |Class 10|[dunder](./Class10.md)
 |Class 11|[Data Analysis](./DataAnalysis.md)|
+|Class 12|[Pandas](./class12.md)
