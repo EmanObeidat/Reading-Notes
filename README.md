@@ -40,4 +40,5 @@
 |Class 10|[dunder](./Class10.md)
 |Class 11|[Data Analysis](./DataAnalysis.md)|
 |Class 12|[Pandas](./class12.md)|
-|Class 13|[Linear Regressions](./Linear%20Regressions.md)
+|Class 13|[Linear Regressions](./Linear%20Regressions.md)|
+|Class 14|[Data Visualization](./DataVisualization.md)
