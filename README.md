@@ -41,4 +41,5 @@
 |Class 11|[Data Analysis](./DataAnalysis.md)|
 |Class 12|[Pandas](./class12.md)|
 |Class 13|[Linear Regressions](./Linear%20Regressions.md)|
-|Class 14|[Data Visualization](./DataVisualization.md)
+|Class 14|[Data Visualization](./DataVisualization.md)|
+|Class 15|[Trees](./trees.md)

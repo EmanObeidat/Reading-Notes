@@ -40,5 +40,4 @@ The Seaborn Cheat Sheet is a useful reference sheet that lists the most importan
 1-Plotting Functions
 2-Customization Options
 3-Categorical and Statistical Functions
-
 ```
