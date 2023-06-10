@@ -42,4 +42,5 @@
 |Class 12|[Pandas](./class12.md)|
 |Class 13|[Linear Regressions](./Linear%20Regressions.md)|
 |Class 14|[Data Visualization](./DataVisualization.md)|
-|Class 15|[Trees](./trees.md)
+|Class 15|[Trees](./trees.md)|
+|Class 16|[Serverless Functions](./ServerlessFunctions.md)
