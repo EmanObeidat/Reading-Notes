@@ -45,3 +45,4 @@
 |Class 15|[Trees](./trees.md)|
 |Class 16|[Serverless Functions](./ServerlessFunctions.md)|
 |Class 17|[Web Scraping](./class17.md)|
+|Class 18|[ Intro to Django](./%20IntroToDjango.md)
