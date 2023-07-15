@@ -47,3 +47,4 @@
 |Class 17|[Web Scraping](./class17.md)|
 |Class 18|[ Intro to Django](./%20IntroToDjango.md)|
 |class 19|[Django Models](./DjangoModels.md)|
+|Class 20|[Django CRUD and forms](./CRUD.md)
