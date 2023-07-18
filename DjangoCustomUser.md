@@ -57,5 +57,6 @@ Extra management commands
 Improved security measures
 Utility functions
 Additional middleware and context processors
+
 ```
-Incorporating DjangoX into your project offers a range of benefits, including faster project setup, enhanced security, streamlined development, and ready-to-use utilities. It allows you to leverage the extra functionalities and tools provided by DjangoX to improve your Django application's quality and efficiency.
+Incorporating DjangoX into your project offers a range of benefits, including faster project setup, enhanced security, streamlined development, and ready-to-use utilities. It allows you to leverage the extra functionalities and tools provided by DjangoX to improve your Django application's quality and efficiency. 
