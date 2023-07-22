@@ -50,3 +50,5 @@
 |Class 20|[Django CRUD and forms](./CRUD.md)|
 |Class 21|[Django Custom User](./DjangoCustomUser.md)|
 |class 22|[Hash table](./hash.md)|
+|class 23|[Django REST Framework & Docker](./RESTDOCKER.md)|
+
