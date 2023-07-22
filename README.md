@@ -47,4 +47,8 @@
 |Class 17|[Web Scraping](./class17.md)|
 |Class 18|[ Intro to Django](./%20IntroToDjango.md)|
 |class 19|[Django Models](./DjangoModels.md)|
-|class 20|[Django REST Framework & Docker](./RESTDOCKER.md)|
+|Class 20|[Django CRUD and forms](./CRUD.md)|
+|Class 21|[Django Custom User](./DjangoCustomUser.md)|
+|class 22|[Hash table](./hash.md)|
+|class 23|[Django REST Framework & Docker](./RESTDOCKER.md)|
+
