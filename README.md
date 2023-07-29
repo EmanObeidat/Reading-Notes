@@ -52,4 +52,5 @@
 |class 22|[Hash table](./hash.md)|
 |class 23|[Django REST Framework & Docker](./RESTDOCKER.md)|
 |Class 24|[Permission and postgresql](./Permission&Postsql.md)|
+|Class 25|[Authentication & Production Server](./Authentication.md)|
 
