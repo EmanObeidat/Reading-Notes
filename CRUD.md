@@ -37,13 +37,13 @@ Base Template:
 A base template serves as the foundation for other templates. It contains the overall structure, layout, and common elements shared by multiple pages. The base template defines blocks that child templates can override or extend to customize the content as needed.
 
 Extending Base Template:
-Child templates can extend the base template using the {% extends %} template tag. This establishes a parent-child relationship, allowing the child template to inherit the structure and layout from the base template.
+Child templates can extend the base template using the  extends  template tag. This establishes a parent-child relationship, allowing the child template to inherit the structure and layout from the base template.
 
 Overriding Blocks:
-Child templates can override specific blocks defined in the base template using the {% block %} template tag. This allows customization of specific sections without modifying the entire template. By overriding blocks, you can insert unique content or customize the appearance of elements within the child templates.
+Child templates can override specific blocks defined in the base template using the block  template tag. This allows customization of specific sections without modifying the entire template. By overriding blocks, you can insert unique content or customize the appearance of elements within the child templates.
 
 Including Common Elements:
-Alongside block inheritance, Django Templates also support including common elements across multiple templates using the {% include %} template tag. This allows you to reuse specific HTML fragments or snippets without duplicating the code in each template.
+Alongside block inheritance, Django Templates also support including common elements across multiple templates using the  include template tag. This allows you to reuse specific HTML fragments or snippets without duplicating the code in each template.
 ```
 ### Q3:Describe the function of Django Views in handling HTTP requests, and outline the differences between function-based views and class-based views.
 ```
