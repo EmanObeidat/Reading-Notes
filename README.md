@@ -54,4 +54,5 @@
 |Class 24|[Permission and postgresql](./Permission&Postsql.md)|
 |Class 25|[Authentication & Production Server](./Authentication.md)|
 |Class 26|[API Deployment](./API-Deployment.md)|
+|Class 27|[DSA-Review](./DSA_Review.md)|
 
