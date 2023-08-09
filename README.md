@@ -55,4 +55,4 @@
 |Class 25|[Authentication & Production Server](./Authentication.md)|
 |Class 26|[API Deployment](./API-Deployment.md)|
 |Class 27|[DSA-Review](./DSA_Review.md)|
-
+|Class 28|[Graph](./graph.md)|
